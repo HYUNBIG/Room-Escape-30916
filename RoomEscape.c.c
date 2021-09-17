@@ -1,3 +1,10 @@
+/*
+개발자 : 최현빈
+개발일 : 2021.09.08
+문의: s01023757735@gmail.com
+ */  
+  
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
